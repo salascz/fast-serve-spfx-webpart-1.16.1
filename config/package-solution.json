@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fast-serve-test",
+    "id": "f25fbd7f-4e14-4bc2-8a18-a04e0230038b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fast-serve-test description"
+      },
+      "longDescription": {
+        "default": "fast-serve-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fast-serve-test Feature",
+        "description": "The feature that activates elements of the fast-serve-test solution.",
+        "id": "dadfef17-7498-44c5-931f-a9f2a1fbd103",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fast-serve-test.sppkg"
+  }
+}
